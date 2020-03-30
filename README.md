@@ -5,3 +5,6 @@ smtplib-
 In tools like pycharm previously installed but due to some errors installed it through command prompt using 'pip install smtplib'
 ssl-
 previously insatlled in pycharm
+os and imghdr -
+previously existed in pycharm
+
