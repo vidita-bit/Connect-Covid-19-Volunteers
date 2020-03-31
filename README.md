@@ -35,7 +35,6 @@ Installed latest version of **Python** from this link [https://www.python.org/do
       - The execution of program will send the mail to all the students mail id as listed in excel file
       - The mail consisting of application form and dataset of teasting centers of COVID-19
       - Student will fill and submit the form according to their current location either home or hostel , selecting the preferred 
-        
         testing center as form also consist location of centers therefore according to the suitable routes they can filter it.   
       - Their response consisting of their medical streams will be send to the server of testing centers as preferred by the students
       - This way assistance in various means telemedicine, nurses, junior doctors can be fulfilled
