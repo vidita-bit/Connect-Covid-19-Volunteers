@@ -1,6 +1,6 @@
 #Errors and their solutions
 
-##SMTP_SSL has no attribute 'encode' 
+**SMTP_SSL has no attribute 'encode'**
 when smtplib not working properly or installation problem due to some reasons
 
 ##unused import statement 
