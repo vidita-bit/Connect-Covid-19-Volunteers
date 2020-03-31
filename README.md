@@ -21,11 +21,11 @@ Installed latest version of **Python** from this link [https://www.python.org/do
  ## Solution to the errors:
   - In any case if error occurs while execution, the reason and how to solve them is mentioned in a readme file `Errors occurred`
   
- ### Necessary Warnings:
+ ### Pre-requisites - Necessary Warnings:
    - The email id used for sending mail after execution of program should have following measures otherwise error may occur:
-     1. The email id should be added to enviornment variable in a variable name `EMAIL_USER` and `App password` in `EMAIL_PASS` as used in code
-     2. Turn on `less secure app` settings from given link.
-     3. Create an `App password` which will be added in enviornmemt variable
+     1. The email id should be added to enviornment variable in a variable name `EMAIL_USER` and `App password` or password in `EMAIL_PASS` as used in code
+     2. Turn on `less secure app` settings from given link. [click here](https://www.google.com/settings/security/lesssecureappsif )
+     3. If 2 verification enabled for account , Create an `App password` by going in security of gmail account settings, which will be added in enviornmemt variable [click here](https://www.google.com/settings/security/lesssecureapps)
   
  ## Execution of Project :
    - clone the files `new_template`, `final_html`, `emails` from the repository
@@ -53,10 +53,10 @@ Installed latest version of **Python** from this link [https://www.python.org/do
    - [To see the working of project click here](https://drive.google.com/open?id=1pkEcsJEUzPTZcC9xJkmPKA5PYdL06YHi)
         
    ## Output received at hospitals server 
-   - When hospital of these state are selected by student, automatic responses will be sent to those hospitals which they selected, as per these emails ids:
+   -  After execution of project to see the details at recieved at hospital server following state hospitals have following email id:
    1.	Uttar Pradesh:- rajneeshsharma@zhcet.ac.in
    2.	Jammu and Kashmir :- vivekrajs3999@gmail.com
-   3.	Maharashtra:- viditaagrawal77@gmail.com
+    3.	Maharashtra:- viditaagrawal77@gmail.com
 
       
         
