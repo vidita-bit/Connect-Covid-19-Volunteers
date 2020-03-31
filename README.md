@@ -19,18 +19,19 @@ Installed latest version of **Python** from this link [https://www.python.org/do
   - mentioned in the file `packages`
   
  ## Solution to the errors:
-  - In any case if error occurs while execution, the reason and how to solve them is mentioned in a readme file `errors occurred` 
+  - In any case if error occurs while execution, the reason and how to solve them is mentioned in a readme file `Errors occurred` 
   
  ## Execution of Project :
-   - In CLI firstly go into the directory where project files are saved 
+   - clone the files `new_template`, `final_html`, `emails` from the repository
+   - In CLI firstly go into the directory where project files are present 
    - Then execute the following command
       -  For Windows and Linux users
            ```python
-              python name_of_file.py
+              python new_template.py
            ````
       - For Mac Users:
           ```python
-             python3 name_of_file.py
+             python3 new_template.py
           ````
           (if the version of installed python is 3)
   ## Process:
