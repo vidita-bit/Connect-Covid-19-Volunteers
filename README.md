@@ -1,6 +1,7 @@
 # Trailblazers: COVID-19 VOLUNTEERS
 This project **aims** to tackle **COVID-19 crisis**. Due to sudden outbreak of Coronavirus disease, the number of cases is rising at alarming rate. ***We need more of doctors, nurses, assistance workers and paramedics***. India can produce **1.5 lakhs young doctors** if the ***final year medical students*** are authorized to practice. In this *project we are going to direct a route to medical students, whether they are in college, hostels or their homes, they will be able to reach their nearest **COVID-19 Testing Sites***. This project is done using [Python], [Flask], [Django], [HTML], [CSS] and [Geo-location]. We are coming up with this project so as to address the shortage of doctors, nurses, assiatance workers and paramedics. 
 [The link to the article where the need of this project is mentioned](https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/how-mci-can-save-the-country-tough-covid-19-battle-can-only-be-won-by-our-young-doctors-and-nurses/articleshow/74822637.cms?from=mdr)
+This is the form which we have used to take responses (data) of the medical students. https://form.jotform.com/200894710430449  
 
 
 ## INSTALLATION: 
