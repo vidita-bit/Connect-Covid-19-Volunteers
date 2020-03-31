@@ -11,9 +11,9 @@ Installed latest version of **Python** from this link [https://www.python.org/do
  - clone the `requirements.txt` file from the repository
  
  - execute the command (for windows user).
-      ```html
-   `pip install -r requirements.txt` 
-      ````
+     ```html
+      pip install -r requirements.txt 
+     ````
        
  ### Used Packages already installed in IDE **Pycharm** 
   - mentioned in the file `packages`
