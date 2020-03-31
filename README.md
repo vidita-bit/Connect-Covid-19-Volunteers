@@ -11,7 +11,7 @@ Installed latest version of **Python** from this link [https://www.python.org/do
  - execute the command (for windows user).
       ```html
     - `pip install -r requirements.txt` 
-       ````
+      ````
        
  ### Used Packages already installed in IDE **Pycharm** 
   - mentioned in the file `packages`
@@ -20,13 +20,13 @@ Installed latest version of **Python** from this link [https://www.python.org/do
   - In any case if error occurs while execution, the reason and how to solve them is mentioned in a readme file `errors occurred` 
   
  ## Execution of Project :
-     - In CLI firstly go into the directory where project files are saved 
-     - Then execute the following command
-       -  For Windows and Linux users
+   - In CLI firstly go into the directory where project files are saved 
+   - Then execute the following command
+      -  For Windows and Linux users
            ```python
               python name_of_file.py
            ````
-        - FOr Mac Users:
+      - FOr Mac Users:
           ```python
              python3 name_of_file.py
           ````
@@ -36,4 +36,4 @@ Installed latest version of **Python** from this link [https://www.python.org/do
       - The mail consisting of application form and dataset of teasting centers of COVID-19
       - Student will fill and submit the form according to their current location either home or hostel , selecting the preferred               testing center as form also consist location of centers therefore according to the suitable routes they can filter it.   
       - Their response consisting of their medical streams will be send to the server of testing centers as preferred by the students
-      - This way assistance in various means telemedicine, nurses, junior doctors can be fullfilled
+      - This way assistance in various means telemedicine, nurses, junior doctors can be fulfilled
