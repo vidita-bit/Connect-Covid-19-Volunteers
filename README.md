@@ -12,7 +12,7 @@ Installed latest version of **Python** from this link [https://www.python.org/do
  
  - execute the command (for windows user).
       ```html
-    - `pip install -r requirements.txt` 
+   `pip install -r requirements.txt` 
       ````
        
  ### Used Packages already installed in IDE **Pycharm** 
