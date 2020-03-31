@@ -56,7 +56,7 @@ Installed latest version of **Python** from this link [https://www.python.org/do
    -  After execution of project to see the details at recieved at hospital server following state hospitals have following email id:
    1.	Uttar Pradesh:- rajneeshsharma@zhcet.ac.in
    2.	Jammu and Kashmir :- vivekrajs3999@gmail.com
-    3.	Maharashtra:- viditaagrawal77@gmail.com
+   3.	Maharashtra:- viditaagrawal77@gmail.com
 
       
         
