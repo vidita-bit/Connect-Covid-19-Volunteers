@@ -53,7 +53,7 @@ Installed latest version of **Python** from this link [https://www.python.org/do
    - [To see the working of project click here](https://drive.google.com/open?id=1pkEcsJEUzPTZcC9xJkmPKA5PYdL06YHi)
         
    ## Output received at hospitals server 
-   -  After execution of project to see the details at recieved at hospital server following state hospitals have following email id:
+   - When hospital of these state are selected by student, automatic responses will be sent to those hospitals which they selected, as per these emails ids:
    1.	Uttar Pradesh:- rajneeshsharma@zhcet.ac.in
    2.	Jammu and Kashmir :- vivekrajs3999@gmail.com
    3.	Maharashtra:- viditaagrawal77@gmail.com
