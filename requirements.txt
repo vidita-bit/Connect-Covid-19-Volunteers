@@ -4,8 +4,6 @@ Mail
 flask_mail
 django
 automium_web
-sendEmail
-Message
 
 
 
