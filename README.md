@@ -34,6 +34,6 @@ Installed latest version of **Python** from this link [https://www.python.org/do
   ## Process:
       - As the program is executed, it will send mail to all those final year medical students whose email-ids are collected.
       - This mail holds the link to application form and dataset of all COVID-19 testing centers/hospitals in India.
-      - Students will fill up their details in the form. Form contains location of all the testing centres in their respective states,           they will be able to select those hospitals which are most convinient for them to reach, and then they can submit it.
+      - Students will fill up their details in the form. Form contains location of all the testing centres in their respective states, they will be able to select those hospitals which are most convinient for them to reach, and then they can submit it.
       - Their response or details  will be send to the server of testing center, whichever is preferred by the student.
       - This way assistance in various means telemedicine, nurses, junior doctors can be fulfilled
