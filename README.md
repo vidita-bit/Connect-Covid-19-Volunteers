@@ -3,12 +3,12 @@ This project **aims** to tackle **COVID-19 crisis**. Due to sudden outbreak of C
 
 
 
-# INSTALLATION: 
+## INSTALLATION: 
 Installed latest version of **Python** from this link [https://www.python.org/downloads/]. Upgrade pip version, if not done by using ['python -m pip install –upgrade pip’] command for windows.
-# [smtplib]-
+### [smtplib]-
 In IDE used (*pycharm*), it was already installed, in case of errors install it through command prompt using ['pip install smtplib'].
-# [ssl]-
+### [ssl]-
 Already insatlled in *pycharm*.
-# [os and imghdr] -
+### [os and imghdr] -
 Already existed in *pycharm*.
 
