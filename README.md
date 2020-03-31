@@ -32,10 +32,9 @@ Installed latest version of **Python** from this link [https://www.python.org/do
           ````
           (if the version of installed python is 3)
   ## Process:
-      - The execution of program will send the mail to all the students mail id as listed in excel file
-      - The mail consisting of application form and dataset of teasting centers of COVID-19
-      - Student will fill and submit the form according to their current location either home or hostel , selecting the preferred 
-        testing center as form also consist location of centers therefore according to the suitable routes they can filter it.   
-      - Their response consisting of their medical streams will be send to the server of testing centers as preferred by the students
+      - As the code is executed, it will send mail to all thode final year medical students whose email-ids are collected.
+      - This mail holds the link to the application form and dataset of all COVID-19 Testing-centres in Inida.
+      - Student will fill up their details in the form. Form contains location of all the testing centres in their respective states, they will be able to select the location which is most convenient for them to reach and work.
+      - Their response or details will be send to the server of testing center, whichever has been preferred by the students.
       - This way assistance in various means telemedicine, nurses, junior doctors can be fulfilled
-      - The students can have their duties to the hospitals that are easily reachable for them 
+      - Medical students will be able to contribute and serve their duties to save the nation.
