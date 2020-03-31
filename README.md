@@ -35,6 +35,7 @@ Installed latest version of **Python** from this link [https://www.python.org/do
       - As the code is executed, it will send mail to all thode final year medical students whose email-ids are collected.
       - This mail holds the link to the application form and dataset of all COVID-19 Testing-centres in Inida.
       - Student will fill up their details in the form. Form contains location of all the testing centres in their respective states, they will be able to select the location which is most convenient for them to reach and work.
+      - For sample purpose we have mentioned only three states(Maharashtra, Uttar Pradesh, Jammu & Kashmir) and their testing centres in the form. 
       - Their response or details will be send to the server of testing center, whichever has been preferred by the students.
       - This way assistance in various means telemedicine, nurses, junior doctors can be fulfilled
       - Medical students will be able to contribute and serve their duties to save the nation.
