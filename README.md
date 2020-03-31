@@ -23,9 +23,9 @@ Installed latest version of **Python** from this link [https://www.python.org/do
   
  ### Pre-requisites - Necessary Warnings:
    - The email id used for sending mail after execution of program should have following measures otherwise error may occur:
-     1. The email id should be added to enviornment variable in a variable name `EMAIL_USER` and `App password` or password in `EMAIL_PASS` as used in code
-     2. Turn on `less secure app` settings from given link. [click here](https://www.google.com/settings/security/lesssecureappsif )
-     3. If 2 verification enabled for account , Create an `App password` by going in security of gmail account settings, which will be added in enviornmemt variable [click here](https://www.google.com/settings/security/lesssecureapps)
+     1. The email id should be added to enviornment variable in a variable name `EMAIL_USER` and `App password` or password in `EMAIL_PASS` as used in code [for reference click here](https://drive.google.com/file/d/1udD6fyX-Uzy1jzKKJq4pBH1fF5EUKDIA/view?usp=sharing)
+     2. Turn on `less secure app` settings from given link. [click here](https://www.google.com/settings/security/lesssecureapps )
+     3. If 2 verification enabled for account , Create an `App password` by going in security of gmail account settings, which will be added in enviornmemt variable [click here](https://www.google.com/settings/security/appppassword)
   
  ## Execution of Project :
    - clone the files `new_template`, `final_html`, `emails` from the repository
