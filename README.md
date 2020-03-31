@@ -28,7 +28,7 @@ Installed latest version of **Python** from this link [https://www.python.org/do
      3. If 2 verification enabled for account , Create an `App password` by going in security of gmail account settings, which will be added in enviornmemt variable [click here go to to app password in given link](https://www.google.com/settings/security)
   
  ## Execution of Project :
-   - clone the files `new_template`, `final_html`, `emails` from the repository
+   - clone the files `new_template`, `final_html`, `emails` from the repository in folder `robo_hack_final_codes`
    - In CLI firstly go into the directory where project files are present 
    - Then execute the following command
       -  For Windows and Linux users
