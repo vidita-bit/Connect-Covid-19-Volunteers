@@ -5,10 +5,8 @@ This project **aims** to tackle **COVID-19 crisis**. Due to sudden outbreak of C
 
 ## INSTALLATION: 
 Installed latest version of **Python** from this link [https://www.python.org/downloads/]. Upgrade pip version, if not done by using ['python -m pip install –upgrade pip’] command for windows.
-### [smtplib]-
-In IDE used (*pycharm*), it was already installed, in case of errors install it through command prompt using ['pip install smtplib'].
-### [ssl]-
-Already insatlled in *pycharm*.
-### [os and imghdr] -
-Already existed in *pycharm*.
+### Packages to be installed
+ - clone the requirements.txt file from the repository
+ 
+ - execute the command pip install -r requirements.txt (for windows user).
 
