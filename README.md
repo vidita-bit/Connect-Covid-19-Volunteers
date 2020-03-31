@@ -19,7 +19,13 @@ Installed latest version of **Python** from this link [https://www.python.org/do
   - mentioned in the file `packages`
   
  ## Solution to the errors:
-  - In any case if error occurs while execution, the reason and how to solve them is mentioned in a readme file `Errors occurred` 
+  - In any case if error occurs while execution, the reason and how to solve them is mentioned in a readme file `Errors occurred`
+  
+ ### Necessary Warnings:
+   - The email id used for sending mail after execution of program should have following measures otherwise error may occur:
+     1. The email id should be added to enviornment variable in a variable name `EMAIL_USER` and `App password` in `EMAIL_PASS` as used in code
+     2. Turn on `less secure app` settings from given link.
+     3. Create an `App password` which will be added in enviornmemt variable
   
  ## Execution of Project :
    - clone the files `new_template`, `final_html`, `emails` from the repository
@@ -42,3 +48,11 @@ Installed latest version of **Python** from this link [https://www.python.org/do
       - Their response or details will be send to the server of testing center, whichever has been preferred by the students.
       - This way assistance in various means telemedicine, nurses, junior doctors can be fulfilled
       - Medical students will be able to contribute and serve their duties to save the nation.
+      
+   ## Demo and Execution of project :
+        [To see the working of project click here](https://drive.google.com/open?id=1pkEcsJEUzPTZcC9xJkmPKA5PYdL06YHi)
+        
+   ## Output received at hospitals server 
+      -  After execution of project to see the details at recieved at hospital server following state hospitals have following email id
+      
+        
