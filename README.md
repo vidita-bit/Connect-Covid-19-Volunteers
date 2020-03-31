@@ -6,7 +6,34 @@ This project **aims** to tackle **COVID-19 crisis**. Due to sudden outbreak of C
 ## INSTALLATION: 
 Installed latest version of **Python** from this link [https://www.python.org/downloads/]. Upgrade pip version, if not done by using ['python -m pip install –upgrade pip’] command for windows.
 ### Packages to be installed
- - clone the requirements.txt file from the repository
+ - clone the `requirements.txt` file from the repository
  
- - execute the command pip install -r requirements.txt (for windows user).
-
+ - execute the command (for windows user).
+      ```html
+    - `pip install -r requirements.txt` 
+       ````
+       
+ ### Used Packages already installed in IDE **Pycharm** 
+  - mentioned in the file `packages`
+  
+ ## Solution to the errors:
+  - In any case if error occurs while execution, the reason and how to solve them is mentioned in a readme file `errors occurred` 
+  
+ ## Execution of Project :
+     - In CLI firstly go into the directory where project files are saved 
+     - Then execute the following command
+       -  For Windows and Linux users
+           ```python
+              python name_of_file.py
+           ````
+        - FOr Mac Users:
+          ```python
+             python3 name_of_file.py
+          ````
+          (if the version of installed python is 3)
+  ## Process:
+      - The execution of program will send the mail to all the students mail id as listed in excel file
+      - The mail consisting of application form and dataset of teasting centers of COVID-19
+      - Student will fill and submit the form according to their current location either home or hostel , selecting the preferred               testing center as form also consist location of centers therefore according to the suitable routes they can filter it.   
+      - Their response consisting of their medical streams will be send to the server of testing centers as preferred by the students
+      - This way assistance in various means telemedicine, nurses, junior doctors can be fullfilled
